@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#232323</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Element Colors
+    <color name="othernonmetallic">#3E6418</color>
+    <color name="alkalinemetal">#6C3B01</color>
+    <color name="alkalineearthmetal">#846011</color>
+    <color name="transitionmetal">#711019</color>
+    <color name="weakmetal">#003666</color>
+    <color name="semimetal">#015146</color>
+    <color name="noblegas">#3A2151</color>
+    <color name="na">#2C2C2C</color>
+    <color name="lanthanide">#402C17</color>
+    <color name="actinide">#732E4C</color>
+</resources>
